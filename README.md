@@ -8,9 +8,7 @@ Sign in / Sign up pages with react native
 <p align="center"><img src="https://redayagoub.com/assets/images/11.png" width="500"></p>
 <p align="center"><img src="https://redayagoub.com/assets/images/12.png" width="500"></p>
 
-## Creator
-
-Reda Yagoub
+## Contact
 
 E-mail : ygb.reda@gmail.com
 
